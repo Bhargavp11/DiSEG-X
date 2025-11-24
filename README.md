@@ -11,6 +11,9 @@ will be updated after publication (to avoid similarity)
 4)  The selected datasets cover regions with diverse landscapes to test model effectiveness across heterogeneous spatial contexts.
 5)  Suggested DINO-X-based models outperform established models by noticeable margins.
 
+# Hardware Requirements
+NVIDIA Tesla T4 GPU, 6GB GDDR6 VRAM
+
 # Installation Guide
 1. Create the Conda environment
 
