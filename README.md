@@ -12,7 +12,9 @@ will be updated after publication (to avoid similarity)
 5)  Suggested DINO-X-based models outperform established models by noticeable margins.
 
 # Installation Guide
-conda create -n diseg_x
-
+1. Create the Conda environment
+conda env create -f diseg_x.yml
 conda activate diseg_x
+
+2. Run diseg_x.ipynb file using environment tfclone
 
